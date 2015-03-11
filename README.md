@@ -38,7 +38,7 @@ These files are written in C, some of them are exercises. The group of files in 
 - weightedGraph -> 
 	A group of programs that analyze a weighted graph in terms of shortest 	path.
 
-    grafo_pesato6.c
+    grafo_pesato6.c -> 
 	It takes an undirected graph from file and two vertices, and it evaluates the shortest path between them.
 
     grafo2L.c ->
